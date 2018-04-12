@@ -1,0 +1,10 @@
+c:\users\павлове.corp\documents\visual studio 2017\Projects\LinqTest\LinqTest\bin\Debug\LinqTest.exe.config
+c:\users\павлове.corp\documents\visual studio 2017\Projects\LinqTest\LinqTest\bin\Debug\LinqTest.exe
+c:\users\павлове.corp\documents\visual studio 2017\Projects\LinqTest\LinqTest\bin\Debug\LinqTest.pdb
+c:\users\павлове.corp\documents\visual studio 2017\Projects\LinqTest\LinqTest\bin\Debug\EntityFramework.dll
+c:\users\павлове.corp\documents\visual studio 2017\Projects\LinqTest\LinqTest\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\павлове.corp\documents\visual studio 2017\Projects\LinqTest\LinqTest\bin\Debug\EntityFramework.xml
+c:\users\павлове.corp\documents\visual studio 2017\Projects\LinqTest\LinqTest\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\павлове.corp\documents\visual studio 2017\Projects\LinqTest\LinqTest\obj\Debug\LinqTest.csprojResolveAssemblyReference.cache
+c:\users\павлове.corp\documents\visual studio 2017\Projects\LinqTest\LinqTest\obj\Debug\LinqTest.exe
+c:\users\павлове.corp\documents\visual studio 2017\Projects\LinqTest\LinqTest\obj\Debug\LinqTest.pdb
